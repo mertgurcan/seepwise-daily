@@ -1,0 +1,1 @@
+{"date":"2026-12-05","tier":"hard","level":{"id":20261205,"size":8,"turns":3,"solution":[[0,5],[3,4],[5,2],[7,7]],"wax":[[2,3]],"fibers":[{"row":0,"col":4,"dir":"right"},{"row":3,"col":2,"dir":"right"},{"row":5,"col":2,"dir":"right"},{"row":5,"col":3,"dir":"up"}],"hint":""}}
